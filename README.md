@@ -1,2 +1,2 @@
-# senaca_app
+# Senac App
 Senac Articles App
