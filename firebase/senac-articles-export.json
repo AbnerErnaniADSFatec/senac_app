@@ -1,0 +1,32 @@
+{
+  "SenacArticles": {
+    "History": {
+      "2020:11:28:14:19:27": "\"The user admin has saved a new article named test\"",
+      "2020:11:30:14:26:06": "\"The user admin has saved a new article named sfasfsaf\"",
+      "2020:11:30:15:05:27": "\"The user admin has removed an article named sfasfsaf\"",
+      "2020:11:30:15:07:02": "\"The user admin has removed an article named sfasfsaf\"",
+      "2020:11:30:15:15:28": "\"The user admin has saved a new article named Números\"",
+      "2020:11:30:15:15:39": "\"The user admin has removed an article named Números\"",
+      "2020:11:30:15:16:14": "\"The user admin has saved a new article named Números\"",
+      "2020:11:30:15:16:28": "\"The user admin has removed an article named Números\"",
+      "2020:11:30:15:25:23": "\"The user admin has created a new topic named Remove\"",
+      "2020:11:30:15:25:44": "\"The user admin has saved a new article named remover conteúdo\"",
+      "2020:11:30:15:25:57": "\"The user admin has removed an article named remover conteúdo\""
+    },
+    "Topics": [
+      {
+        "title": "Matematica"
+      },
+      {
+        "title": "\"Remove\""
+      }
+    ],
+    "User": [
+      {
+        "password": "\"admin\"",
+        "role": "\"role_admin, role_user\"",
+        "username": "\"admin\""
+      }
+    ]
+  }
+}
